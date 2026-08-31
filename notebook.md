@@ -1,13 +1,84 @@
 ## Table of Contents
-- [BJC Labs](#bjc-labs)
-  - [Lab 1 Click Alonzo](lab-1-click-alonzo)
+- [Vocab](#vocab)
+- [Important blocks](#important-blocks)
+- [On the AP exam](#on-the-ap-exam) 
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
   - [Headings](#headings)
-  - [Text Formatting](#text-formatting)
  
 
-## BJC Labs
-### Lab 1 Click Alonza
+
+
+
+
+
+
+
+
+ ## Vocab
+<details>
+  <summary>Abstraction</summary>
+    The most fundamental idea in computer science, giving a name to something in a program to make it more readable.
+</details>
+
+<details>
+  <summary>Procedural abstraction</summary>
+    Using a procedure to name an idea, ex. the procedure "who" to the idea of picking an item from the list of people or cats.
+</details>
+
+<details>
+  <summary>Expression</summary>
+    An expression is a either a constant value (such as "4" or "winter") or a call to a reporter block including its inputs.
+</details>
+
+
+
+
+
+
+
+
+
+
+
+## Important Blocks
+<details>
+  <summary>broadcast</summary>
+     Sends a message to all the sprites. To set the message, click the down arrow and select "new..."
+</details>
+
+<details>
+  <summary>when I receive</summary>
+     (Click help on the block to learned more about it in order to complete this definition)
+</details>
+
+<details>
+  <summary>hat blocks</summary>
+    Blocks that sit on top of a script, which starts once a specific event occurs.
+    <img width="1712" height="220" alt="image" src="https://github.com/user-attachments/assets/9cb7b29d-2900-4236-b8d3-966a69cf98a0" />
+</details>
+
+
+
+
+
+
+
+
+
+## On the AP Exam
+<img width="1006" height="120" alt="image" src="https://github.com/user-attachments/assets/07537e28-8c7b-43f8-826f-0c145834438a" />
+
+  - Many languages (and the AP CS Principles Exam) use return instead of report as the name of the command to give a value back at the end of a function call.
+  - The exam uses "value of a procedure" to mean the value the procedure returns when called. For example, "the value of double(5)" means 10.
+
+<img width="1553" height="64" alt="image" src="https://github.com/user-attachments/assets/ac4d85d3-7ec4-4038-b156-729d0bd81e55" />
+
+ 
+
+
+
+
+
 
 
 
