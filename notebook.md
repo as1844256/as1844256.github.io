@@ -13,6 +13,117 @@
 
 
 
+## AP CSP Vocabulary
+<details>
+<summary><strong>Iteration</strong></summary>
+
+**Definition:** Repeating a set of instructions in an algorithm.
+
+**In My Own Words:** Iteration is when the program does the same group of steps multiple times instead of writing those steps over and over.
+
+**Example:**
+```
+REPEAT 3 TIMES
+{
+    MOVE_FORWARD()
+}
+```
+
+This repeats MOVE_FORWARD() three times.
+
+</details>
+
+<details>
+<summary><strong>Algorithm</strong></summary>
+
+**Definition:** A finite set of instructions used to accomplish a task.
+
+**In My Own Words:** An algorithm is a limited number of instructions that helps complete a certain task.
+
+**Example:**
+```
+The instructions that move a robot to its final position.
+```
+
+This helps give the robot commands on what to do next.
+
+</details>
+
+<details>
+<summary><strong>Sequencing</strong></summary>
+
+**Definition:** Statements execute in the order they appear unless the flow of control changes.
+
+**In My Own Words:** Statements that continue in one order.
+
+**Example:**
+```
+ROTATE_LEFT() followed by MOVE_FORWARD()
+```
+
+This repeats MOVE_FORWARD() three times.
+
+</details>
+
+<details>
+<summary><strong>Selection</strong></summary>
+
+**Definition:** Uses a condition to determine which part of an algorithm is executed.
+
+**In My Own Words:** Waits until a specific condition plays to play a specific algorithm.
+
+**Example:**
+```
+IF (x < 3)
+```
+
+This repeats MOVE_FORWARD() three times.
+
+</details>
+
+<details>
+<summary><strong>Variable</strong></summary>
+
+**Definition:** A named value that can change while a program runs.
+
+**In My Own Words:** A symbol that can transition between values.
+
+**Example:**
+```
+i in i ← 3
+```
+
+This repeats MOVE_FORWARD() three times.
+
+</details>
+
+<details>
+<summary><strong>Assignment</strong></summary>
+
+**Definition:** Stores a value in a variable.
+
+**In My Own Words:** changes the variable depending on what the value is, getting stored in it.
+
+**Example:**
+```
+i ← 3
+```
+
+This repeats MOVE_FORWARD() three times.
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
 
  ## Vocab
 <details>
