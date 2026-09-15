@@ -141,7 +141,101 @@ This repeats MOVE_FORWARD() three times.
     An expression is a either a constant value (such as "4" or "winter") or a call to a reporter block including its inputs.
 </details>
 
+<details>
+  <summary>transparency</summary>
+    The transparency of an image is how much you can see what's behind it.
+</details>
 
+<details>
+  <summary>Algorithm</summary>
+    An algorithm is a sequence of steps that are usually performed by a computer.
+</details>
+
+<details>
+  <summary>Pseudocode</summary>
+    An algorithm written in human language.
+</details>
+
+<details>
+  <summary>Parameter</summary>
+    A parameter (or formal parameter) is the input name, such as number of branches. The input name is set in the block definition. It never changes.
+</details>
+
+<details>
+  <summary>Argument</summary>
+    An argument (or actual argument) is the input value, such as 6 for a hexagonal pinwheel. The input value is given each time the block is run; it can be a different value each time.
+</details>
+
+<details>
+  <summary>Iteration</summary>
+    Computer scientists describe a repeating program structure as looping, repetition, or iteration.
+</details>
+
+
+<details>
+  <summary>Micro-computer</summary>
+    A micro-computer is a small but powerful computer system.
+</details>
+
+<details>
+  <summary>Breakout Board</summary>
+    A Breakout Board allows a micro-computer to be easily connected to various electronic input and output devices.
+</details>
+
+<details>
+  <summary>Computer Control</summary>
+    When a computer is connected to a series of systems and devices in the real world, and a computer program is used to control the various devices, it is often known as a Computer Control system.
+</details>
+
+<details>
+  <summary>Digital</summary>
+    A Digital device processes information using electronic signals that are either 0 (off) or 1 (on).
+</details>
+
+<details>
+  <summary>Data</summary>
+    Data is the term used to describe the information used and stored in a computer. It comprises information stored using digital information (0’s and 1’s).
+</details>
+
+<details>
+  <summary>Sprite</summary>
+    An actor on the stage who knows how to do many different things, such as walk around the stage and speak the lines of the play.
+</details>
+
+<details>
+  <summary>Costumes</summary>
+    Picture that can be "worn" by a sprite.
+</details>
+
+<details>
+  <summary>List</summary>
+    A list is an ordered sequence of items.
+</details>
+
+<details>
+  <summary>Strings</summary>
+    A string is a sequence of characters (letters, digits, punctuation, etc.). A substring is just a piece of some existing string. For example, "Hanna," "anna", and "nnah" are each substrings of the string "Hannah." (The empty string as well as the original string are both also substrings.)
+</details>
+
+<details>
+  <summary>Concatenation</summary>
+    To concatenate strings means to make a bigger string by connecting two or more smaller strings.
+</details>
+
+<details>
+  <summary>Procedures</summary>
+    A procedure is a named sequence of instructions that may take inputs and may report a value. Some languages call procedures methods or functions.
+</details>
+
+<details>
+  <summary>Reporters</summary>
+    Reporters have an oval shape. They report a value.
+</details>
+
+<details>
+  <summary>Commands</summary>
+    Commands have a jigsaw puzzle shape. They tell the computer to do something without reporting a value.
+</details>
 
 
 
