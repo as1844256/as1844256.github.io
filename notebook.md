@@ -125,6 +125,11 @@ This repeats MOVE_FORWARD() three times.
 
 
 
+
+
+
+
+
  ## Vocab
 <details>
   <summary>Abstraction</summary>
@@ -245,6 +250,15 @@ This repeats MOVE_FORWARD() three times.
 
 
 
+
+
+
+
+
+
+
+
+
 ## Important Blocks
 <details>
   <summary>broadcast</summary>
@@ -270,6 +284,9 @@ This repeats MOVE_FORWARD() three times.
 
 
 
+
+
+
 ## On the AP Exam
 <img width="1006" height="120" alt="image" src="https://github.com/user-attachments/assets/07537e28-8c7b-43f8-826f-0c145834438a" />
 
@@ -277,6 +294,26 @@ This repeats MOVE_FORWARD() three times.
   - The exam uses "value of a procedure" to mean the value the procedure returns when called. For example, "the value of double(5)" means 10.
 
 <img width="1553" height="64" alt="image" src="https://github.com/user-attachments/assets/ac4d85d3-7ec4-4038-b156-729d0bd81e55" />
+
+ - There is nothing exactly like say (gossip) or say (gossip) for (3) secs on the AP Exam because they don't have sprites and speech balloons, but their way of showing this text to the user is DISPLAY(gossip()) if it's written as text or a white rounded rectangle containing first the word 'DISPLAY' in all caps and then a smaller white rectangle containing the word 'gossip' in lower case if it's shown as blocks.
+ - You won't have to be able to write code in this notation on the AP exam. You just have to be able to read it so you can answer questions about it.
+
+<img width="546" height="354" alt="image" src="https://github.com/user-attachments/assets/ccea3121-4afd-4278-b388-d07d69a057be" />
+ - Many languages (and the AP CS Principles Exam) use return instead of report as the name of the command to give a value back at the end of a function call.
+ - The exam uses "value of a procedure" to mean the value the procedure returns when called. For example, "the value of double(5)" means 10.
+
+ - The expression pick random (1) to (10) would be written as RANDOM(1, 10) or RANDOM(1, 10). Every time you run this code, you will get a different random number between 1 and 10.
+
+<img width="546" height="484" alt="image" src="https://github.com/user-attachments/assets/9a62469c-5806-41c8-afdc-5a17c812cab9" />
+ - The procedures move() and turn_clockwise() aren't built in to the AP's language so they are written in lower case like other programmer-defined procedures.
+
+ - Notice that the hat block, pinwheel, branches: (number of branches), would be written as PROCEDURE pinwheel(numberOfBranches). The word PROCEDURE tells you that that line of the code is like a hat block; the variable name in the parentheses on that line is the input that the procedure takes.
+
+ - This instruction setup; pinwheel, branches: (6) size: (80) backup: (20) would be written as Pinwheel(6, 80, 20) or a white rounded rectangle containing first the word 'PINWHEEL' in all caps and then a smaller white rectangle containing the inputs '6, 80, 20'.
+ - You may hear people use the term "pseudocode" to refer to this pseudo-language used on the AP CS Principles exam, but it's not pseudocode. Pseudocode isn't a programming language at all, it's the use of normal human language to describe an algorithm.
+
+
+
 
  
 
