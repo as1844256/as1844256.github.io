@@ -1,4 +1,4 @@
-<img width="432" height="231" alt="image" src="https://github.com/user-attachments/assets/c15f824c-ca18-47de-a789-b7e1f5c2bade" />## Table of Contents
+## Table of Contents
 - [Concepts](#concepts)
 - [Vocab](#vocab)
 - [Important blocks](#important-blocks)
