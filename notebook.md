@@ -257,6 +257,33 @@ This repeats MOVE_FORWARD() three times.
     Commands have a jigsaw puzzle shape. They tell the computer to do something without reporting a value.
 </details>
 
+<details>
+<summary><strong>Programming Language + Project</strong></summary>
+
+**Definition:**  
+A programming language is a set of rules in which symbols represent actions. Programming languages follow step-by-step instructions that a computer executes in order for a project to run.
+
+**In My Own Words:**  
+Rules that a computer follows to perform a project which runs.
+
+**Example:**  
+<img width="686" height="339" alt="image" src="https://github.com/user-attachments/assets/e47fb9f4-568d-41b9-bf30-bbb7abdbd638" />
+
+</details>
+
+<details>
+<summary><strong>Behavior + Command</strong></summary>
+
+**Definition:**  
+Behaviors are the actions performed or to be performed by a robot. Moving forward, stopping, turning, looking for an obstacle — these are all behaviors. Behaviors are defined by the programming language. To change the behaviors of a VR Robot, you can change the blocks in a project. These programming blocks are also called commands.
+
+**In My Own Words:**  
+Actions which the robot executes in the program.
+
+**Example:**  
+<img width="691" height="134" alt="image" src="https://github.com/user-attachments/assets/201d1c50-15f7-4258-a6fe-983570f98fd7" />
+
+</details>
 
 
 
