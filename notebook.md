@@ -1,10 +1,25 @@
-## Table of Contents
+<img width="432" height="231" alt="image" src="https://github.com/user-attachments/assets/c15f824c-ca18-47de-a789-b7e1f5c2bade" />## Table of Contents
+- [Concepts](#concepts)
 - [Vocab](#vocab)
 - [Important blocks](#important-blocks)
 - [On the AP exam](#on-the-ap-exam) 
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
   - [Headings](#headings)
  
+
+
+
+
+
+
+
+## Concepts
+
+
+
+
+
+
 
 
 
@@ -267,7 +282,7 @@ This repeats MOVE_FORWARD() three times.
 
 <details>
   <summary>when I receive</summary>
-     (Click help on the block to learned more about it in order to complete this definition)
+     Runs the attached stack of blocks when the selected message is received from a broadcasted message.
 </details>
 
 <details>
@@ -275,6 +290,55 @@ This repeats MOVE_FORWARD() three times.
     Blocks that sit on top of a script, which starts once a specific event occurs.
     <img width="1712" height="220" alt="image" src="https://github.com/user-attachments/assets/9cb7b29d-2900-4236-b8d3-966a69cf98a0" />
 </details>
+
+<details>
+  <summary>Stack / Command Block</summary>
+     Perform main commands. They are shaped to attach above or below other stack blocks.
+     <img width="756" height="130" alt="image" src="https://github.com/user-attachments/assets/1f6a3edb-2018-4f67-b1d7-60a692370299" />
+</details>
+
+<details>
+  <summary>Boolean / Hexagonal Block</summary>
+     Return a condition as either true or false and fits inside any blocks with hexagonal (six-sided) inputs for other blocks.
+     <img width="749" height="104" alt="image" src="https://github.com/user-attachments/assets/fd755ec7-6634-41f4-9585-a86c088b7654" />
+</details>
+
+<details>
+  <summary>C-Block</summary>
+     Loop the block(s) within them or check if a condition is true or false. They are shaped to attach stack blocks above, below, or inside them.
+     <img width="747" height="178" alt="image" src="https://github.com/user-attachments/assets/b64aa59d-aa6e-402f-90ae-8394b1314f1e" />
+</details>
+
+<details>
+  <summary>Reporter / Oval Block</summary>
+     Report values in the form of numbers and fits inside any blocks with oval inputs for other blocks.
+     <img width="747" height="109" alt="image" src="https://github.com/user-attachments/assets/901ea88a-f756-48c7-a5f8-f177d1e6283d" />
+</details>
+
+<details>
+  <summary>Repeat Block</summary>
+     A 'C' block that repeats the blocks contained inside for a set number of times.
+     <img width="335" height="105" alt="image" src="https://github.com/user-attachments/assets/3dbab9c8-7994-4997-8658-076f444fef11" />
+</details>
+
+<details>
+  <summary>Wait Until Block</summary>
+     Waits for a Boolean block to report true before moving to the next block. The Wait Until Boolean block can accept hexagonal (six-sided) shaped blocks.
+     <img width="252" height="60" alt="image" src="https://github.com/user-attachments/assets/40fe2962-ace8-4380-93aa-4623ed796fc6" />
+</details>
+
+<details>
+  <summary>If Then Block</summary>
+     A 'C' Block that runs the blocks inside, if the Boolean condition is reported to be true.
+     <img width="402" height="106" alt="image" src="https://github.com/user-attachments/assets/42ffe40e-447b-482e-b5a1-964c3ee84d95" />
+</details>
+
+<details>
+  <summary>Forever Block</summary>
+     A 'C' block that repeats any blocks contained inside forever.
+     <img width="432" height="231" alt="image" src="https://github.com/user-attachments/assets/c69bfd9f-aa01-4b8f-b5b0-fa15b9fffcfc" />
+</details>
+
 
 
 
