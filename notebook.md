@@ -285,6 +285,77 @@ Actions which the robot executes in the program.
 
 </details>
 
+<details>
+<summary><strong>Sensor + Bumper Sensor</strong></summary>
+
+**Definition:**  
+A Bumper Sensor is a switch that reports if it is pressed or released.
+The Bumper Sensor will report a sensor value of TRUE when the Bumper Sensor is pressed.
+The Bumper Sensor will report a sensor value of FALSE when the Bumper Sensor is released. A VR Robot uses sensors to collect data from its surroundings (Sense),  make decisions based on this information (Think) and turn that information into instructions for behaviors (Act).
+
+**In My Own Words:**  
+Sensors that tell the robot what to do next after reporting true or false.
+
+**Example:**  
+<img width="622" height="251" alt="image" src="https://github.com/user-attachments/assets/e1fceaf1-c13c-417b-95af-750c36230315" />
+
+</details>
+
+<details>
+<summary><strong>Eye Sensor</strong></summary>
+
+**Definition:**  
+The Eye Sensor can detect if there is an object present, and if so, detect the color of the object (red, green, blue, none).
+
+**In My Own Words:**  
+The eye sensor can see if there is an object in its view and what color it is.
+**Example:**  
+<img width="652" height="364" alt="image" src="https://github.com/user-attachments/assets/b16d1b16-cbf3-483f-ac64-7c08761810b2" />
+
+</details>
+
+<details>
+<summary><strong>Distance Sensor + Threshold</strong></summary>
+
+**Definition:**  
+The Distance Sensor reports the distance between the front of the Distance Sensor on the VR Robot and the nearest object. The Distance Sensor is located in the Front Eye on the VR Robot.
+
+**In My Own Words:**  
+The distance sensor can detect the distance from the closest object and the front.
+**Example:**  
+<img width="321" height="319" alt="image" src="https://github.com/user-attachments/assets/b8f56e3d-19d2-48ce-8f77-d1ce3ff1f868" />
+
+</details>
+
+<details>
+<summary><strong>Comment</strong></summary>
+
+**Definition:**  
+Allows programmers to write information to help describe their program.
+
+**In My Own Words:**  
+Used to explain what happens next in a program.
+**Example:**  
+<img width="381" height="270" alt="image" src="https://github.com/user-attachments/assets/05e9ccec-4a35-4e95-aa35-0755b8c2b0d4" />
+
+</details>
+
+<details>
+<summary><strong>Boolean + Condition + TRUE/FALSE	</strong></summary>
+
+**Definition:**  
+Conditions inside of blocks, such as [Wait until] blocks, allows the user to "control" the program flow. For example, with the [Wait until] block, the program flow will pause and "wait until" the condition is met and reports TRUE, before moving on to the next block. 
+
+If the Boolean condition is reported as true, the blocks inside of if then will run.
+If the Boolean condition is reported as false, the blocks inside of if then will be skipped.
+
+**In My Own Words:**  
+Waits until true or false is met to then complete a command.
+**Example:**  
+<img width="627" height="746" alt="image" src="https://github.com/user-attachments/assets/565b934a-45c1-4621-9249-8d78f0a33a66" />
+
+</details>
+
 
 
 
