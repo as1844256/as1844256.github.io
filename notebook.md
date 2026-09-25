@@ -15,6 +15,61 @@
 
 ## Concepts
 
+<details>
+<summary><strong>Sequence</strong></summary>
+
+**Definition:**  
+A Sequence is the specific order in which behaviors are performed. An action or event leads to the next ordered action in a sequence.
+
+**In My Own Words:**  
+A sequence follows a set of actions from one to another.
+
+**Example:**  
+Sequencing is important for the Castle Crasher Challenge because the VR Robot will only move exactly as the commands tell it to.
+
+</details>
+
+<details>
+<summary><strong>Sense → Think → Act</strong></summary>
+
+**Definition:**  
+A VR Robot uses sensors to collect data from its surroundings (Sense),  make decisions based on this information (Think) and turn that information into instructions for behaviors (Act). Sensors enable a VR Robot to interact with its environment, and allow the user to create more dynamic projects. These dynamic projects require a VR Robot to interact and respond to changing environments.
+
+**In My Own Words:**  
+The sense think act allows the robot to take in information, break it down, and then complete the task with that new information.
+
+**Example:**  
+<img width="480" height="261" alt="image" src="https://github.com/user-attachments/assets/301348d7-271d-434e-b166-4704833d677d" />
+
+</details>
+
+<details>
+<summary><strong>Sensors</strong></summary>
+
+**Definition:**  
+Two Eye Sensors, one that faces forward, and the other down. These sensors can detect if there is an object present. If there is, the sensor can also detect the color (red, green, blue, none).
+A Location Sensor that reads (X,Y) coordinates from the center turning point of the VR Robot.
+
+**In My Own Words:**  
+A sensor can detect information by calculating distance, calculating where something is. and sensing what color something is with bumper sensors, distance sensors, eye sensors, and location sensors.
+
+**Example:**  
+<img width="791" height="692" alt="image" src="https://github.com/user-attachments/assets/129fbb5a-73aa-4163-b720-4175f5a34880" />
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
