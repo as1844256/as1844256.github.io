@@ -2,7 +2,7 @@
 
 ## Projects
 
-- [VEX VR](vex-vr.md) : (Write a description for your VEX VR work and the project page)
+- [VEX VR](vex-vr.md) : (These works contain projects that I have completed across units.)
 
 - Project 2: Description
 
