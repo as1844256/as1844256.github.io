@@ -12,7 +12,7 @@ Build a process to move through grid squares, which go from 1 to 8 in a fixed or
 
 ### My Solution
 
-<img width="427" height="405" alt="image" src="https://github.com/user-attachments/assets/271790ef-945f-476b-ae1c-74f4daa50039" />
+<img  height="805" alt="image" src="https://github.com/user-attachments/assets/271790ef-945f-476b-ae1c-74f4daa50039" />
 
 ### What I Learned
 
@@ -185,7 +185,7 @@ To complete this challenge, the VR Robot must drive to the numbers ‘25,’ ‘
 
 ### What I Learned
 
-I learned how to use more sensors and how to apply them.
+I learned how to use location sensor as well as how to do so in correct sequencing.
 
 ---------------------------------------------------------------------------
 
@@ -289,6 +289,6 @@ Using the electromagnet, pick up and place one disk of each color inside each co
 
 ### What I Learned
 
-I learned how to use the repeat block inside of another repeat block, which helps to remove any unnecessary blocks in the code.
+I learned how to use the repeat block inside of another repeat block as well as the turn to heading block, which helps to remove any unnecessary blocks in the code.
 
 ---------------------------------------------------------------------------
