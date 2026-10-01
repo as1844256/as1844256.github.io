@@ -12,7 +12,7 @@ Build a process to move through grid squares, which go from 1 to 8 in a fixed or
 
 ### My Solution
 
-<img  height="805" alt="image" src="https://github.com/user-attachments/assets/271790ef-945f-476b-ae1c-74f4daa50039" /> <img width="815" height="520" alt="image" src="https://github.com/user-attachments/assets/b0cdebce-d634-4bba-995b-58d0cc6072a0" />
+<img  height="805" alt="image" src="https://github.com/user-attachments/assets/271790ef-945f-476b-ae1c-74f4daa50039" /> <img width="615" height="320" alt="image" src="https://github.com/user-attachments/assets/b0cdebce-d634-4bba-995b-58d0cc6072a0" />
 
 ### What I Learned
 
@@ -45,7 +45,7 @@ Clear every building on the Castle's grounds by pushing all building pieces (inc
 
 ### My Solution
 
-<img width="401" height="471" alt="image" src="https://github.com/user-attachments/assets/2146f8cd-8a06-4588-86d8-c12df7954d4a" />
+<img width="401" height="471" alt="image" src="https://github.com/user-attachments/assets/2146f8cd-8a06-4588-86d8-c12df7954d4a" /> <img width="610" height="318" alt="image" src="https://github.com/user-attachments/assets/80492015-4582-42e5-b613-3bc1faa717ca" />
 
 ### What I Learned
 
