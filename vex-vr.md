@@ -114,4 +114,77 @@ Create a sequence and navigate the robot from start to finish in the maze using 
 ### What I Learned
 
 I learned how to use bumper sensors as well as using the wait block with the bumper sensors.
+
+---------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Challenge: [Wall Maze with Distance Sensors]
+
+### Goal
+
+Create a project where the VR Robot navigates the Wall Maze Playground from start to finish using the Distance Sensor.
+
+### My Solution
+
+<img width="449" height="612" alt="image" src="https://github.com/user-attachments/assets/7facde7e-a56e-4fbc-98ae-cad9ceb15323" />
+
+### What I Learned
+
+I learned how to utilize the distance sensor, now knowing when to use them, which helps get rid of unnecessary blocks and makes the project shorter.
+
+---------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Challenge: [Drive to Three Numbers Challenge]
+
+### Goal
+
+Drive the VR Robot to three numbers using the Location Sensor and comparison blocks on the Number Grid Map Playground. 
+To complete this challenge, the VR Robot must drive to the numbers ‘25,’ ‘42,’ and ‘78’ in any order.
+
+### My Solution
+
+<img width="467" height="604" alt="image" src="https://github.com/user-attachments/assets/ccba0e4b-6d3d-4156-baf4-0316cc035054" />
+
+### What I Learned
+
+I learned how to use more sensors and how to apply them.
+
 ---------------------------------------------------------------------------
