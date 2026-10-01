@@ -12,7 +12,7 @@ Build a process to move through grid squares, which go from 1 to 8 in a fixed or
 
 ### My Solution
 
-<img  height="805" alt="image" src="https://github.com/user-attachments/assets/271790ef-945f-476b-ae1c-74f4daa50039" />
+<img  height="805" alt="image" src="https://github.com/user-attachments/assets/271790ef-945f-476b-ae1c-74f4daa50039" /> <img width="815" height="520" alt="image" src="https://github.com/user-attachments/assets/b0cdebce-d634-4bba-995b-58d0cc6072a0" />
 
 ### What I Learned
 
