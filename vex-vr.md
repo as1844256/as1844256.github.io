@@ -188,3 +188,107 @@ To complete this challenge, the VR Robot must drive to the numbers ‘25,’ ‘
 I learned how to use more sensors and how to apply them.
 
 ---------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Challenge: [Disk Color Maze]
+
+### Goal
+
+Program the VR Robot to move through the Disk Maze from Start to Finish, turn around 180 degrees, and then move back through the Disk Maze to the original starting point.
+
+### My Solution
+
+<img width="342" height="707" alt="image" src="https://github.com/user-attachments/assets/ece10c60-4edb-498a-a45c-03cdf7f0aeec" />
+
+### What I Learned
+
+I learned how to use the forever block with if blocks inside of them, having the project repeat it over and over again.
+
+---------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Challenge: [Disk Mover Challenge]
+
+### Goal
+
+Using the electromagnet, pick up and place one disk of each color inside each colored goal. Each goal should have one green, one red, and one blue disk to complete this challenge. 
+
+### My Solution
+
+<img width="430" height="623" alt="image" src="https://github.com/user-attachments/assets/0c10a6b9-de70-491b-a6ec-b4970729219e" /> <img width="426" height="632" alt="image" src="https://github.com/user-attachments/assets/7787ca9c-6b84-4c84-851b-bab0eda55e14" />
+
+
+### What I Learned
+
+I learned how to use the repeat block inside of another repeat block, which helps to remove any unnecessary blocks in the code.
+
+---------------------------------------------------------------------------
