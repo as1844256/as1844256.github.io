@@ -77,7 +77,7 @@ I learned how velocity can determine how many blocks actually fall from impact. 
 
 ### My Solution
 
-<img width="390" height="526" alt="image" src="https://github.com/user-attachments/assets/21ca1665-3cac-40d8-bb83-29f18a367a16" /> <img width="350" height="565" alt="image" src="https://github.com/user-attachments/assets/e4bfb92f-a4f4-46ce-a6e3-0ede5bce0aac" />
+<img width="390" height="526" alt="image" src="https://github.com/user-attachments/assets/21ca1665-3cac-40d8-bb83-29f18a367a16" /> <img width="350" height="565" alt="image" src="https://github.com/user-attachments/assets/e4bfb92f-a4f4-46ce-a6e3-0ede5bce0aac" /> <img width="601" height="310" alt="image" src="https://github.com/user-attachments/assets/01a851d4-f08b-4775-b882-444d13932bde" />
 
 ### What I Learned
 
@@ -109,7 +109,7 @@ Create a sequence and navigate the robot from start to finish in the maze using 
 
 ### My Solution
 
-<img width="354" height="503" alt="image" src="https://github.com/user-attachments/assets/e40ef41c-7204-459a-abb1-21e10ba88b91" /> <img width="357" height="531" alt="image" src="https://github.com/user-attachments/assets/bab8477a-4e9d-4a9f-a7f7-8fe4f51f9dc0" />
+<img width="354" height="503" alt="image" src="https://github.com/user-attachments/assets/e40ef41c-7204-459a-abb1-21e10ba88b91" /> <img width="357" height="531" alt="image" src="https://github.com/user-attachments/assets/bab8477a-4e9d-4a9f-a7f7-8fe4f51f9dc0" /> <img width="609" height="319" alt="image" src="https://github.com/user-attachments/assets/1ece7a93-d3d7-418d-801a-85af407ed96d" />
 
 ### What I Learned
 
@@ -145,7 +145,7 @@ Create a project where the VR Robot navigates the Wall Maze Playground from star
 
 ### My Solution
 
-<img width="449" height="612" alt="image" src="https://github.com/user-attachments/assets/7facde7e-a56e-4fbc-98ae-cad9ceb15323" />
+<img width="449" height="612" alt="image" src="https://github.com/user-attachments/assets/7facde7e-a56e-4fbc-98ae-cad9ceb15323" /> <img width="616" height="320" alt="image" src="https://github.com/user-attachments/assets/ad011876-8007-45ef-a2fb-b445a8c91067" />
 
 ### What I Learned
 
@@ -181,7 +181,7 @@ To complete this challenge, the VR Robot must drive to the numbers ‘25,’ ‘
 
 ### My Solution
 
-<img width="467" height="604" alt="image" src="https://github.com/user-attachments/assets/ccba0e4b-6d3d-4156-baf4-0316cc035054" />
+<img width="467" height="604" alt="image" src="https://github.com/user-attachments/assets/ccba0e4b-6d3d-4156-baf4-0316cc035054" /> <img width="615" height="323" alt="image" src="https://github.com/user-attachments/assets/53645c06-1979-47f2-929a-f66d12a73b02" />
 
 ### What I Learned
 
