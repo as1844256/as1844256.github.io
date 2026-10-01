@@ -16,7 +16,7 @@ Build a process to move through grid squares, which go from 1 to 8 in a fixed or
 
 ### What I Learned
 
-I learned when to use a repeat block, knowing to put it when a repeated sequence is forming. I also learned that when I do not use the reverse bloc, I can make the robot rotate, and make it go back to start.
+I learned when to use a repeat block, knowing to put it when a repeated sequence is forming. I also learned that when I do not use the reverse block, I can make the robot rotate, and make it go back to start.
 
 ---------------------------------------------------------------------------
 
