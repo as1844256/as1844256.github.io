@@ -2,9 +2,10 @@
 
 ## Projects
 
+- [Project 1: EMS Station](project-1-ems-station.md)
+
 - [VEX VR](vex-vr.md) : (These works contain projects that I have completed across units.)
 
-- Project 2: Description
 
 ## About Me
 
