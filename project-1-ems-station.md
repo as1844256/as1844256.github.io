@@ -19,6 +19,9 @@ The finished system should allow the garage door to open when the alarm sounds, 
 
 <img width="620" height="341" alt="Screenshot 2026-10-22 4 18 48 PM" src="https://github.com/user-attachments/assets/635d7d14-ac93-4c16-9509-a08ea9756ba5" />
 At first, I wanted the garage door to open like in the sketch above, but during the design, I realized a different way of opening it and decided to change it to open directly up instead.
+
+
+## Design decisions
 The traffic light was 3D printed into a stand up every day traffic light.
 The garage door works by using a position servo to have the door open vertically, when the alarm plays, the sound goes to the position servo, giving the code to move it and make the garage door open and close.
 How I made the servo connect to the garage door was use a screw to put into the cardboard garage door, and then I put the screw into the position servo, which allowed the servo to move the garage.
@@ -28,6 +31,65 @@ I also placed the light sensor near the sensor.
 
 
 
+## Build process
 
-<img width="1639" height="800" alt="image" src="https://github.com/user-attachments/assets/9b086bd4-0ba4-40d3-9a3c-7f213e63be98" />
+<img width="1239" height="600" alt="image" src="https://github.com/user-attachments/assets/9b086bd4-0ba4-40d3-9a3c-7f213e63be98" />
+
+The code process here had a problem, the sprite would not change into the costume after interacting with the places on the stage.
+
+<img width="475" height="354" alt="image" src="https://github.com/user-attachments/assets/577b80f6-7911-4c9c-bf7e-990a0286efa8" />
+
+After fixing the code, the project allowed the sprite to change into the correct costumes after interacting with the places on the stage.
+
+<img width="475" height="354" alt="image" src="https://github.com/user-attachments/assets/42757886-009d-4f42-912c-5a6c79f6076c" />
+<img width="475" height="354" alt="image" src="https://github.com/user-attachments/assets/4383cbc5-f44e-411d-af69-92400e2643f7" />
+More examples of the costumes working.
+
+<img width="657" height="556" alt="image" src="https://github.com/user-attachments/assets/7c31fb51-41b0-409e-b533-ce7435f228c4" />
+
+This is the finished code after trial and error.
+
+
+
+
+
+## Code
+<img width="457" height="213" alt="image" src="https://github.com/user-attachments/assets/148d58de-8646-4a1c-9b70-7ef0f70113e5" />
+<img width="557" height="246" alt="image" src="https://github.com/user-attachments/assets/08b1978e-64ee-44d9-a737-ef7df7b2e2f7" />
+<img width="457" height="201" alt="image" src="https://github.com/user-attachments/assets/ead566c4-7d06-4618-aaee-c187c677e08b" />
+
+The code above allows the sprite to change into a specific costume after touching a specific area on the stage.
+For example, after Alonzo touches the fire, its costume changes into "AlonzoHose".
+
+<img width="348" height="147" alt="image" src="https://github.com/user-attachments/assets/30889c17-b4eb-4c5b-81d6-03af1746c859" />
+
+After an emergency sounds, an alarm plays out until the until is met, as shown above.
+
+<img width="315" height="147" alt="image" src="https://github.com/user-attachments/assets/783bc7bf-4831-43c6-ae0b-7df4802509cb" />
+
+When the if statement is met, the position servo moves the specific direction, which here is -90 degrees.
+
+<img width="357" height="257" alt="image" src="https://github.com/user-attachments/assets/a8cf453d-297b-4da9-896e-48fb53aba8de" />
+
+When the alarm plays, the LED lights turn on, flashing every 1 second.
+
+<img width="235" height="166" alt="image" src="https://github.com/user-attachments/assets/8944213b-a3b5-42bc-87fc-45cbf23f380d" />
+
+Alonzo, the sprite, resets, which means it goes back to the center and removes any unorignal costume, going back to the normal one.
+
+
+
+
+## Snap! EMS Station project link:
+https://snap.berkeley.edu/snap/snap.html#present:Username=analeyah&ProjectName=EMS%20Project%20-%20New%20Starter%20Code%204%2024
+
+
+
+
+
+
+
+
+
+
 
