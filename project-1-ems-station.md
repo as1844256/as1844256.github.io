@@ -83,6 +83,43 @@ Alonzo, the sprite, resets, which means it goes back to the center and removes a
 ## Snap! EMS Station project link:
 https://snap.berkeley.edu/snap/snap.html#present:Username=analeyah&ProjectName=EMS%20Project%20-%20New%20Starter%20Code%204%2024
 
+## How the system works
+The computer recieves the information when the code begins to run, when an emergency happens, the sound sensors sound as well as the light sensor. When an emergency has occurred, the computer uses to code to know what to do. Since the code is written to play a sound when "emergency" happens, the computer does exactly that. The code is also written for the garage door and traffic light, the position servo acts as the movement for the garage door in the actual design, so when a condition is met, the computer runs the expected code, as well as the same for the traffic light. The system controls the costumes, the sound, the position servo, LEDS.
+
+When an emergency occurs, the code for the sound plays out first, to the traffic light switching to the right color, to Alonzo touching a specific area and changing into a specific costume, to the garage door opening, and then when the alarm stops, the garage closes again, going back to no alarm and the traffic light back to normal.
+
+
+
+
+
+## Testing and debugging
+Two problems that occured during my project were Alonzo not changing into the costumes even after the condition was met and then the garage door not opening correctly after using the position servo.
+
+## What happened?
+For the code with the costumes and Alonzo, when Alonzo touched "Medical" or "Fire", the costume did not change into the correct one and instead stayed the same. For the garage door, after putting in a screw into the cardboard and placing the position servo where I thought would work, the cardboard did not open up.
+
+## What was causing it?
+I believe what was causing Alonzo to not change into the correct costume was where the code was located, in the stage and not in the places, "Medical" or "Fire". I believe what was causing the garage door to not open correctly was where the position servo was located with the cardboard.
+
+## What tests and changes happened?
+For Alonzo, I changed where the code was and put it into the correct place, for the garage door, I tried out different places where the position servo was.
+
+## What happened after the change?
+For Alonzo, my solution worked out after a few trial and errors, for the garage door, I could not figure it out after many tries.
+
+## What was learned?
+I learned for future references, to make sure to check where a specific code is happening so I can fix it and to test multiple solutions, seeing what works and what does not work.
+
+
+
+
+
+
+
+## Final product:
+[Screen recording 2026-10-22 5.18.45 PM.webm](https://github.com/user-attachments/assets/1cbf7b81-82fc-4936-9c01-713b452deedd)
+
+
 
 
 
