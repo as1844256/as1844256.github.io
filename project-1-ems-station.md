@@ -117,7 +117,28 @@ I learned for future references, to make sure to check where a specific code is 
 
 
 ## Final product:
+<img width="958" height="474" alt="image" src="https://github.com/user-attachments/assets/b6c13841-35ad-4859-8acf-6b23892bd8ef" />
+
+
 [Screen recording 2026-10-22 5.18.45 PM.webm](https://github.com/user-attachments/assets/1cbf7b81-82fc-4936-9c01-713b452deedd)
+
+
+
+
+
+
+
+
+## Reflection
+
+## What part of this project are you most proud of?
+I am most proud of how the alarm goes off and how Alonzo switches costumes correctly.
+
+## What was the most difficult part?
+The most difficult part was trying to code the garage door, trying to learn where it goes and what works made it very difficult, if the position servo was too low or too heavy to be on the garage, or if it wasn't in the correct place, where it would move the garage door a different place.
+
+## If you had more time, what would you improve?
+If I had more time, I would improve the garage door, doing a different design to see if that would work than my original design and I would also experiment more to see where the position servo would go.
 
 
 
