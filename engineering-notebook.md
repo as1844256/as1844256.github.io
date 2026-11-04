@@ -15,6 +15,10 @@
 
 ### 1. What was your goal or plan for today?
 Read through the Robo Rally article and take notes while learning what different things are, Measure my robot.
+<img width="980" height="420" alt="IMG_20261104_110310" src="https://github.com/user-attachments/assets/7bed21ca-92f9-4db0-964c-f2e969e5b78a" />
+<img width="980" height="420" alt="IMG_20261104_111145" src="https://github.com/user-attachments/assets/abe00bb6-a3d2-466d-80be-fc6cb4edda73" />
+
+
 
 ### 2. What did you work on today?
 I worked on my engineering notebook, taking notes in it from the article. The tasks I completed were 
