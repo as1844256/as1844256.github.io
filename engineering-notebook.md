@@ -32,37 +32,21 @@ What I learned was what scale was, in the article it says, "Scale is the relatio
 
 ## Day 2
 
-— Date: __________
+— Date: 11/4/26
 
 ### 1. What was your goal or plan for today?
-- What were you trying to accomplish?
-- What steps did you plan to take?
-- What materials, parts, or tools did you need?
+-We were trying to accomplish our scale for our mini robot and our mini track, designing a robot and the track.
 
 ### 2. What did you work on today?
-- What did you design, sketch, build, or program?
-- What changes or improvements did you make?
-- What tasks did you complete?
-- Include pictures, diagrams, or measurements if applicable.
+I designed the robot and then after the first track, I helped remake it, I also got the measurements and wrote them down.
 
 ### 3. What tests or experiments did you perform?
-- What were you trying to test or discover?
-- What did you predict would happen?
-- What were your results or observations?
-- Did your design or solution work as expected?
-
+I tested the track with the robot, I made the robot smaller and then made the track smaller to fit two robots.
 ### 4. What challenges did you encounter?
-- What problems, errors, or failures occurred?
-- What did you try to fix or improve?
-- What worked or didn't work?
-- What would you change about your design or approach?
+The challenges I encountered were my robot being too big at first, so I compared it to the track and fixed the measurments, making it the right size for the track and my original robot.
 
 ### 5. What did you learn, and what comes next?
-- What new skills, concepts, or techniques did you learn?
-- What did you accomplish?
-- What would you do differently?
-- What are your next steps for the next class?
-
+I learned how to convert inches into cm and mm, I also learned how to measure the robot and track, what comes next is finishing the rest of scale paper, measuring the track since I did not get to finish measuring.
 ---------
 
 ## Day 3
@@ -217,7 +201,7 @@ What I learned was what scale was, in the article it says, "Scale is the relatio
 <img width="518" height="364" alt="image" src="https://github.com/user-attachments/assets/0a6f65b4-563e-4e9f-b987-c17bdfb3cb47" />
 
 ### Class 2 — Measure, Scale & Design
-**Date:**
+**Date:** 11/4/26
 #### Measurements
 - Speedbot length:
 - Speedbot width:
