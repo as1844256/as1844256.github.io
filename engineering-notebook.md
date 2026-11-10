@@ -69,6 +69,19 @@ I occured the robot wheel not being on tight, so we fixed both of the wheels and
 ### 5. What did you learn, and what comes next?
 I learned more about how to convert feet into cm and mm, I also learned how to make our cardboard robot to scale with our actual robot, what comes next is finishing out robot and finishing our worksheet.
 
+## Day 4
+
+— Date: 11/10/26
+
+### 1. What was your goal or plan for today?
+finish our track, make the model onto the floor and finish our worksheet.
+
+### 2. What did you work on today?
+I worked on finishing the worksheet, finding the scale for the robot, model track, and finding all of the mm for the straightaways and turning area of our track.
+### 4. What challenges did you encounter?
+I occured not knowing how to convert the scale on the worksheet.
+### 5. What did you learn, and what comes next?
+I learned more about how to do the scale for the track and how to convert it from mm and the robot width and length.
 
 
 
