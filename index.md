@@ -4,6 +4,8 @@
 
 - [Project 1: EMS Station](project-1-ems-station.md)
 
+- [Project 2: Railroad Crossing](project-2-railroad-crossing.md)
+
 - [VEX VR](vex-vr.md) : (These works contain projects that I have completed across units.)
 
 
