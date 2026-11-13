@@ -83,6 +83,30 @@ I occured not knowing how to convert the scale on the worksheet.
 ### 5. What did you learn, and what comes next?
 I learned more about how to do the scale for the track and how to convert it from mm and the robot width and length.
 
+## Day 5
+
+— Date: 11/13/26
+Cardboard measurement length: 63.5 mm
+
+Cardboard measurement width: 57.15 mm 
+
+Robot measurement length: 339.75 mm
+
+Robot measurement width: 279.4
+
+Length scale: 5.35
+
+Width scale: 4.8
+
+Smallest width of the model racetrack: 203.2 mm
+Apply scale: 203.2 X 4.8 = 975.36 mm
+
+Convert to cm = 97.536
+
+Reflection: I learned how 1cm is 5km in real life, scales and keys and what different scales are called like how a drawn scale could be a map.
+
+---------
+
 
 
 
