@@ -25,8 +25,21 @@ We were supposed to build a crossing stop, one where it uses a position servo, c
 <img width="594" alt="image" src="https://github.com/user-attachments/assets/216c3807-b1bc-4050-941c-eb7665ad554c" />
 : This code allowed the blocks inside of it to run whenever distance (the train) was sensed. When the train passes by and the distance is under 18, the position sensor gets to 0, allowing the cardboard to drop, the sounds to sensor, the lights to go on, and if the train does not pass by and the distance is over 18, the position sensor gets to 90, and stops everything else.
 
+
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/e247a3fd-fe09-4adb-bb06-855ce93f43f5" /> 
+: This code, whenever the hummingbird board is connected, allows the distance number to be displayed on the program, which can help to see how far or close something is whenever you run into a problem, it is mainly used to detect the distance of the train whenever it is close, so that the cause and effect can happen.
+
+
 ## Snap! Project Link: A working link to your saved Snap! program.
 https://snap.berkeley.edu/snap/snap.html#present:Username=analeyah&ProjectName=U2L2R%20Railroad%20Crossing
+
+## How It Works: Explain the inputs (sensors), processing (code/decisions), and outputs (lights, servo, etc.), including the timetable.
+
+## Final Product: Pictures and a demonstration video showing what your system does.
+<img width="599" alt="image" src="https://github.com/user-attachments/assets/94d30eb7-9c94-4591-9940-eb5040d9a7b7" />
+
+
+
 
 
 
