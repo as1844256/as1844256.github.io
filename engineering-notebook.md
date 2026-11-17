@@ -108,6 +108,21 @@ Reflection: I learned how 1cm is 5km in real life, scales and keys and what diff
 ---------
 
 
+## Day 6
+
+— Date: 11/17/26
+
+### 1. What was your goal or plan for today?
+Start our actual scale track on the floor, finish the robot.
+
+### 2. What did you work on today?
+I worked on the track, measuring the scales and multiplying them to get the real life scale so we could see if the robot fits.
+
+### 4. What challenges did you encounter?
+I occured not getting the actual scale at first for the ground track, which was hard to do before asking someone to help.
+
+### 5. What did you learn, and what comes next?
+I learned how to convert scale from the paper to real life, which was multiplying it. Next I have to finish the track.
 
 
 
