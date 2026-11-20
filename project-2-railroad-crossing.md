@@ -34,6 +34,10 @@ We were supposed to build a crossing stop, one where it uses a position servo, c
 https://snap.berkeley.edu/snap/snap.html#present:Username=analeyah&ProjectName=U2L2R%20Railroad%20Crossing
 
 ## How It Works: Explain the inputs (sensors), processing (code/decisions), and outputs (lights, servo, etc.), including the timetable.
+: The input distance sensor is what makes the whole project work. It senses how close something is, and then can perform an action based on how close or how far away it is. When the train passes by, the distance sensor works as the "if" and "what". The code mainly consists of "if" blocks, notes, LED, and position servo. The "if" block processes information and then if that "if" is true, then it does the next action. The notes are a sound that plays whatever specific notes you want. The LED and position servo have lights change to different colors and move to a specific percentage. The timetable is also important, allowing information to be stored or taken away when an action is true, like the distance sensor sensing the train passing, and the time table putting that information in.
+
+## Testing & Debugging:
+: Two problems that came up were when the train passed by, the information would not go into the list. I tried to add the code into the other "if" instead of it being by itself and it finally added information into the list. Another problem that occured was when the LEDs would not flash. I fixed it by rearranging the code, adding "wait" blocks in between LED blocks.
 
 ## Final Product: Pictures and a demonstration video showing what your system does.
 <img width="599" alt="image" src="https://github.com/user-attachments/assets/94d30eb7-9c94-4591-9940-eb5040d9a7b7" />
@@ -45,6 +49,8 @@ https://drive.google.com/file/d/1l_nht4oRg8Rpl7BeXPkUNUeeNH037vJM/view?usp=shari
   <source src="IMG_3631 (3).mov" type="video/mp4">
 </video>
 
+## Reflection:
+: I learned how to import "if" statements with the distance sensor, which could add information when the train passed by. What was challenging was trying to create the list and trying to fix the information being put into the list after it would not do it multiple times.
 
 
 
